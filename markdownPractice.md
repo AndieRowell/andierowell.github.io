@@ -47,8 +47,8 @@ This is just plain text to start a quote:
 <!-- format is ![alt text](url) -->
 ![astro boy](https://en.wikipedia.org/wiki/Astro_Boy_%28character%29#/media/File:Astro_Boy_anime_version.png)
 
+<br>
+
+![astro boy2](/)
+
 <!-- heres the website i used for markdown best practices guide - https://www.markdownguide.org/basic-syntax/#overview -->
-
-
-
-[def]: https://en.wikipedia.org/wiki/Astro_Boy_%28character%29#/media/File:Astro_Boy_anime_version.png
