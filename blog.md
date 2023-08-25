@@ -1,9 +1,9 @@
 # Hello World!
 ### Hi, hello there, my name is Andie and this is the start of my coding journey!
-    Welcome to the start of my blog... (watch here as it develops before your very eyes... :magic_wand: :crystal_ball: :sparkles: )
+    Welcome to the start of my blog... (watch here as it develops before your very eyes...)
 
 <br>
-:sparkles:
+:magic_wand: :crystal_ball: :sparkles:
 <br>
 
 ## Week 1 (8/21 - 8/25):
