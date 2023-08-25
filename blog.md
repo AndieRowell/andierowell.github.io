@@ -6,7 +6,7 @@
 :magic_wand: :crystal_ball: :sparkles:
 <br>
 
-<span align="center">![hello world gif](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)</span>
+<!-- tried a hack to center align stuff... did'nt work <span align="center">![hello world gif](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)</span> -->
 
 ## Week 1 (8/21 - 8/25):
 First week back at **Awesome Inc's** web developer bootcamp and I'm honestly really excited! I was previously in the last cohort for the remote summer session, but ended up having to pause and push to join this fall session instead. Going from feeling super overwhelmed and not having a grip on what was going on in my life a few months ago to now, I feel a lot better and like I can get a second wind. I know I can do this, just life happens when you least expect it, so I'm really excited to start again.
