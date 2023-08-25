@@ -15,4 +15,4 @@ As the weeks continue I'm really excited to see the small amount I was exposed t
 
 Anyways! If you're still here after all that, Hi it's nice to meet you! A little bit about me, my name is Andie, I'm a 30-year old Asian-American living in Kentucky, hoping to move to California eventually. I'm half-thai, half-white, and I split my childhood between Kentucky, Thailand, and Myanmar. I've always been a crafty-art-kid so if I start comparing coding to crochet don't be too surprised later. :smile: I have a lot of hobbies and I'm a **huge** stationary nerd so if you ever need to know what are the best pens and paper to use, you've come to the right place! I also go down rabbit-hole hobby obsessions almost monthly, and currently it's crochet and fountain pens! ***...maybe I can find a way to combine my hobbies with code later on...*** :thinking:
 
-Okay! enough blabbing! I'll be dumping my thoughts to myself here as well as keeping up with the blog prompts we're given. I'll see you guys next week! :wave:
+Okay! Enough blabbing! I'll be dumping my thoughts to myself here as well as keeping up with the blog prompts we're given. **I'll see you guys next week!** :wave:
